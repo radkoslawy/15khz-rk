@@ -1,4 +1,5 @@
 # 15khz Monitors
+### Link do pliku z lista modeli monitorow: https://docs.google.com/spreadsheets/d/1DbpWkZVr5wuL55GgL7U_LQKaqVUqzq_odGMNVEJ09QA/edit?usp=sharing 
 
 *Disclaimer:*
 
